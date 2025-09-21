@@ -1,0 +1,5 @@
+numpy>=1.22
+pandas>=1.5
+scikit-image>=0.20
+scikit-learn>=1.2
+pytest>=7.0
